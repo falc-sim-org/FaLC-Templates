@@ -1,0 +1,25 @@
+﻿maximum Utilization Factor (UF) by zone type
+----------------------------------------------------------------------------
+
+The maximum Utilization Factor (UF) is a widely used instrument in Swiss Urban Planning to limit building densities. 
+Assumptions are based on land use regulations in the Cantons of Solothurn, Appenzell I.Rh., St. Gallen, and Zurich. 
+For details see Bodenmann et al. (2014)
+
+code		code of zone type
+zcode_text	name of zone type
+uf		maximum Utilization Factor (UF)
+us_residential  usual share of residential use
+us_work		usual share of work use
+max_residential maximal share of residential use
+max_work 	maximal share of work use
+
+
+  11  Zone for residential use (Wohnzone)
+  12  Zone for commercial and industrial use (Gewerbe und Industrie)
+  13  Zone for commercial and residential use (Gewerbezone mit Wohnen)
+  14  Core zone development (Kernzone Entwicklung)
+  15  Zone for public buildings 
+  16  eingeschränkte Bauzonen
+  17  Tourism and leisure zone (Tourismus und FreizeitZone)
+  18  Transport area
+  19  Weitere Bauzonen

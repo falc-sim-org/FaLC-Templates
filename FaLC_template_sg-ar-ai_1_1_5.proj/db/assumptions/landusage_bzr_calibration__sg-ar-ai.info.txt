@@ -1,0 +1,18 @@
+﻿higher occupied Floor Area than maximum Floor Area in starting year:
+obzFA(𝓁,u)	Floor Area outside the considered zoning plan (by location 𝓁, use type u)
+
+
+The assumed Utilization Factors (UF) showed to be too low in large cities (where land use regulation tend to allow more dense settlement) and in agricultural villages (with a relatively large number of residents and employees located outside the officially designated building zones. 
+Generally, this leads already in the starting year to a higher occupied Floor Area than the maximum Floor Area allowed in the zone. In the following years, these locations loose year by year households and firms. 
+To handle this, the three rules have been amended by an additional Floor Area representing the floor area not covered by the zoning plan (and the according assumptions in FaLC).
+(for details: see Bodenmann et al. 2014)
+
+
+locid	  id of location 𝓁
+denot	  name of location 𝓁
+obzfa_r	  Floor Area outside the considered zoning plan for residential use
+obzfa_j	  Floor Area outside the considered zoning plan for jobs
+obzfa_r_j Floor Area outside the considered zoning plan fur residential use and jobs
+
+In the current implementation, obzFA(𝓁,u)  was calculated based on the status in 2000. 
+Additionally, we assumed that the maximum Floor Area is at least 10% higher than the occupied Floor Area in year 2000.

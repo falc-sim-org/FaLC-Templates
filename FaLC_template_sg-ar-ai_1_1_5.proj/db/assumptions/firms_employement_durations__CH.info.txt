@@ -1,0 +1,8 @@
+Job duration in firms (all sectors):
+Probability that a job leaves a firm after x years 
+
+
+duration	duration an employee is in a firm
+P		probability to leave the firm
+
+Quelle: Beige, 2008

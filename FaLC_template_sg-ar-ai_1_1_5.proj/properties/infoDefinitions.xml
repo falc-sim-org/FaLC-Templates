@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<falcconfig>
+	<!-- Sample parammeters definition file-->
+	<info_run id="1" desc="Info file 1" active="false" markdiff="true" content="all">
+		<property name="run.universe.years" value="10"/>
+	</info_run>
+</falcconfig>

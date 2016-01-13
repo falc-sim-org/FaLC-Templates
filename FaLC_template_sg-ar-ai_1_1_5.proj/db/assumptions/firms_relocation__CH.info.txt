@@ -1,0 +1,22 @@
+Relocation rates of firms according to sector:
+Probability that a firm of a certain sector migrates in another municipality
+
+
+Sector_ID	Sector ID in FaLC (1-10)
+Sector		Sector name
+m2000-m2050	Probability of migration per sector and year
+
+
+sectors Br1-Br10 in FaLC Swiss Case Study:		
+	1	agriculture
+	2	production
+	3	wholesale
+	4	retail
+	5	gastronomy
+	6	finance
+	7	services fC
+	8	other services
+	9	others
+	10	non movers
+
+Source: Bodenmann, 2011 (1991-2006, SG/AR/AI)

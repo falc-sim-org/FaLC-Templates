@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config>
+	<locationstable path="distances_default_locations_residents" />
+	<populate type="OSM" tablename="name.of.distances.file" populate="true" usemodifiedvalues="false" calculatebicycles="false" >
+		<centroids path="full.path.to.centroids" />
+		<generalizedStreets type="car" path="full.path.to.result.of.simplification" />
+		<missingdistancesreport path="optional.full.path.to.populate.distances.control.file" />
+	</populate>	
+</config>

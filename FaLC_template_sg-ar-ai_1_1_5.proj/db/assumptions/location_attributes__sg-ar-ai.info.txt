@@ -1,0 +1,83 @@
+﻿Export aus der Datei NPVMplus_2000_v04.xls (oder neuer)
+
+Zonendaten aus dem NPVM 2000, angereichert mit weiteren Attributen für FaLC CH-Case Study
+
+Details siehe NPVMplus_2000_v04.xls
+
+----------------------------------------------------------------------------------------
+M: attribute moved to table "base_data_synthetic_population.csv"
+L: attribute moved to table "location_attributes.csv"
+
+ATTRIBUTE:
+
+	OLD			ENGLISH				DESCRIPTION
+				
+M/L	Zone			locid				Zonennummer NPVM2000 
+M/L	Name			denot				Zonenname NPVM2000 
+M/L				municipality
+M/L				subarea_nr
+				
+	
+M	Azubi			apprentice			Anzahl Auszubildende, Studenten etc. am Studienort
+L	VerkFl			sales_FA			Verkaufsfläche in m2
+L	VerkFl_Centr		sales_FA_centr			Verkaufsfläche in Einkaufszentren in m2
+		
+M	EW00_04m…		R_00_04m			Anz. Einwohner, männlich, nach Altersgruppe 0-4, 5-9, … (Stand Jahr 2000)
+M	EW00_04w…		R_00_04f			Anz. Einwohner, weiblich nach Altersgruppe 0-4, 5-9, … (Stand Jahr 2000)
+								Achtung: Unregelmässigkeit bei Altersgruppe 15-19, diese wurde Unterteilt in 15-17 und 18-19 (Kinder=0-17)
+
+M	HH_E2-K0 - HH_E2-K5	HH_A2-C0 - HH_A2-C5		Anz. Haushalte mit einem Elternpaar nach Anzahl Kinder (0-5) (Stand Jahr 2000)
+M	HH_E1-K0 - HH_E1-K5	HH_A1-C0 - HH_A1-C5		Anz. Haushalte mit einem Elternteil nach Anzahl Kinder (0-5) (Stand Jahr 2000)
+
+M	B_Br01 - B_Br10		E_Sec01 - E_Sec10		Anz. Beschäftigte nach Branche (Stand Jahr 2000)
+M	AS_Br01 - AS_Br10	F_Sec01 - F_Sec10		Anz. Arbeitsstätten nach Branche (Stand Jahr 2000)
+M	ASG_Br01 - ASG_Br10	FS_Sec01 - FS_Sec10		Durchschnittliche Grösse der Arbeitsstätten in Anz. Beschäftigten, nach Branche (Stand Jahr 2000)
+
+L	Fl_tot			Area_tot			Fläche der Gemeinde in ha
+L	Fl_sdl			Area_settl			Siedlungsfläche der Gemeinde in ha
+L	Fl_ntz			Area_cultivable			Nutzbare Fläche der Gemeinde in ha
+
+L	MiA_4_00		Rent_4flat			Durchschnittliche Monatsmiete einer 4-Zimmer Wohnung (Stand Jahr 2000)
+L	LP_wWE_00		LP_res				Durchschnittlicher Landpreis Wohnzone (Stand Jahr 2000)
+L	LP_wWG_00		LP_mix				Durchschnittlicher Landpreis Wohn-/Gewerbezone (Stand Jahr 2000)
+L	LP_wGI_00		LP_ind				Durchschnittlicher Landpreis Gewerbe-/Industriezone (Stand Jahr 2000)
+
+M	ET_m_00			R_wse_m				wage and salary earner; Anz. Erwerbstätige Personen, männlich (Stand Jahr 2000)
+M	ET_f_00			R_wse_f				Anz. Erwerbstätige Personen, weiblich (Stand Jahr 2000)
+
+M	WegP_m_00		outComm_m			Anz. Wegpendler aus Gemeinde, männlich (Stand Jahr 2000)
+M	WegP_f_00		outComm_f			Anz. Wegpendler aus Gemeinde, weiblich (Stand Jahr 2000)
+
+M	HH_Paar			HH_pair				Paarhaushalte ohne Kinder und ältere Nachkommen
+
+L	SE_WFK			Bus_dev_index			Wirtschaftsförderungsindex/Index of Cantonal Business Development (CS, 2003)
+
+								Shares / Anteile:
+M	ED_18-XX_01		ED_18_XX_01			Keine: Persons 18-XX years old without education
+M	ED_18-XX_02		ED_18_XX_02			Obligatorische: Persons 18-XX years old elementary/obligatory school
+M	ED_18-XX_03		ED_18_XX_03			Berufsausbildung: Persons 18-XX years old Apprenticeship
+M	ED_18-XX_04		ED_18_XX_04			Maturitässchule: Persons 18-XX years old with Secondary Education
+M	ED_18-XX_05		ED_18_XX_05			Höhere + Hochschule: Persons 18-XX years old with High education + University
+
+L				urban_centre			attribute for big cities (1 = big cities, 0 = not big city)
+L				loc_type			91 = large city
+								92 = agglomeration+small cities
+								94 = countryside
+
+
+	
+Sectors in FaLC:	
+1	agriculture
+2	production
+3	wholesale
+4	retail
+5	gastronomy
+6	finance
+7	services fC
+8	other services
+9	others
+10	non movers
+
+Wirtschaftsförderungsindex/Index of Cantonal Business Development (CS, 2003):
+Source: Credit Suisse (2003): Kantonale Wirtschaftsförderung: ein erster Vergleich, Spotlight, 2003
+Values stanardised/Werte Standardisiert CH = 0

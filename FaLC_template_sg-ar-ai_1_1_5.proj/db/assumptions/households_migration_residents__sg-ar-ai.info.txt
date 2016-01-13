@@ -1,0 +1,15 @@
+﻿Balance of migration in #migrants
+
+*********
+FICTIONAL ASSUMPTIONS OF MIGRATION 
+*********
+
+sources
+BFS – Statistisches Lexikon der Schweiz
+1981-2010: PETRA
+2011-2012: STATPOP
+2013-: average of years 1991-2010
+
+Please note: data of PETRA and STATPOP are not identical.
+For more information pleas contact: Informationszentrum, Sektion Demografie und Migration, 032 713 67 11, info.dem@bfs.admin.ch
+Original data file: su-d-1.3.2.1.9 Wanderung der ständigen ausländischen Wohnbevölkerung, 1950-2012

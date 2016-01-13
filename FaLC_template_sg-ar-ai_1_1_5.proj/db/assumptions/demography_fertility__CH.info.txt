@@ -1,0 +1,23 @@
+﻿Export aus der Datei NPVMplus_2000_v04.xls (oder neuer)
+
+Fruchtbarkeit pro Jahr nach Altergruppe (von, bis)
+
+von		Altergruppe Untergrenze
+bis		Altergruppe Obergrenze
+
+f2000- f2050	Durchschnittliche Zahl der Kinder je 1000 Frauen der entsprechenden Altersgruppe pro Jahr
+
+
+
+aus: Indikatoren der Fruchtbarkeit in der Schweiz, 1950-2050
+ - Durchschnittliche Zahl der Kinder je 1000 Frauen der entsprechenden Altersgruppe
+ - 2010-2050 gemäss mittlerem Szenario A-00-2005.
+ - Quellen: BEVNAT,  ESPOP
+ - Auskunft: Informationszentrum, Sektion Demografie und Migration, 032 713 67 11, info.dem@bfs.admin.ch
+ - © BFS - Demografisches Porträt der Schweiz
+
+Zukünftige Werte ab 2011 plausibilisiert und überarbeitet aufgrund Bodenmann et al. (2009)
+
+
+
+Detaills siehe NPVMplus_2000_v04.xls

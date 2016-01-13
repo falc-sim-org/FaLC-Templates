@@ -1,0 +1,19 @@
+﻿Export aus der Datei NPVMplus_2000_v04.xls (oder neuer)
+
+Wahrscheinlichkeit, dass eine Mutter in eine bestimmte Alterskategorie (von, bis) fällt, nach Anzahl Kinder im Haushalt
+Kinder sind Nachkommen unter 18 Jahren, wenn Nachkommen älter sind und im gleichen Haushalt wohnen, fallen die Mütter unter "kein Kind"
+Frauen ohne Nachkommen sind in dieser Aufstellung nicht enthalten.
+(P für Alter der Mutter nach Anz Kinder)
+
+
+von		Altersgruppe der Mutter Untergrenze
+bis		Altergruppe der Mutter Obergrenze
+Kein Kind	Wahrschenlichkeit, dass die Mutter in die entsprechende Altergruppe fällt, wenn kein Kind im Haushalt wohnt 
+1 Kind		Wahrschenlichkeit, dass die Mutter in die entsprechende Altergruppe fällt, wenn 1 Kind im Haushalt wohnt
+2 Kinder	Wahrschenlichkeit, dass die Mutter in die entsprechende Altergruppe fällt, wenn 2 Kinder im Haushalt wohnen
+3 Kinder	Wahrschenlichkeit, dass die Mutter in die entsprechende Altergruppe fällt, wenn 3 Kinder im Haushalt wohnen
+4+		Wahrschenlichkeit, dass die Mutter in die entsprechende Altergruppe fällt, wenn 4 Kinder oder mehr im Haushalt wohnen
+
+
+Quellen: diverse
+Details siehe NPVMplus_2000_v04.xls

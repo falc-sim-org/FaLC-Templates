@@ -1,0 +1,24 @@
+﻿Relocation rates by age
+
+----------------------------------------------------------------------------------------
+Attributes:
+
+
+age                     Alter
+
+
+p_rel_parent		Auszugsrate aus dem elterlichen Haushalt pro Jahr nach Alter
+                        Quelle: Beige, 2008, angepasst für Modellierung (Bodenmann et al., 2009)
+			Assumtion: persons after 45 years always leave the household of the parents
+
+pc_rel_parent		kumulierte Auszugsrate aus dem elterlichen Haushalt pro Jahr nach Alter
+                        Quelle: Beige, 2008, angepasst für Modellierung (Bodenmann et al., 2009)
+
+p_rel_in_rethome	Umzugsrate in ein Alters- und Pflegeheim
+                        Quelle: Angaben Gemeindeverwaltung Eglisau, angepasst für Modellierung (Bodenmann et al., 2009)
+			Assumtions: persons of 90 years move mandatory in a retirement home 
+
+
+
+
+

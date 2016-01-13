@@ -1,0 +1,7 @@
+﻿number residents by canton and year
+(only decades)
+
+sources
+2000-2013: ESPOP (Struktur der ständigen Wohnbevölkerung nach Kantonen, T 1.2.1.2.5)
+"2014-2035: Future Development of Residents, Kantonale Szenarien 2010-2035 (Ständige Wohnbevölkerung nach Kantonen gemäss dem ""mittleren"" Szenario AR-00-2010, 2010-2035 )"
+BFS, Bundesamt für Statistik

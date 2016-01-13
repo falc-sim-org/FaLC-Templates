@@ -1,0 +1,26 @@
+﻿Export aus der Datei NPVMplus_2000_v04.xls (oder neuer)
+
+Zonendaten 2000-2050
+
+Detaills siehe NPVMplus_2000_v04.xls
+
+
+-------------------------------------------------------------------------------------
+Attribute:
+
+Zone		Zonennummer NPVM2000 
+Name		Zonenname NPVM2000 
+
+Lohnk_00…	Lohnkostenniveau in CHF/Monat, nach Jahr 2000-2050
+Arbl_00		Arbeitslosenquote (% der Erwerbspersonen im Alter 15-64), nach Jahr 2000-2050
+
+St_Gh_00	Steuern bei hohem Gewinn in CHF/Jahr, nach Jahr 2000-2050 (vgl. Bodenmann, 2011)
+St_Kh_00	Steuern bei hohem Kapital in CHF/Jahr, nach Jahr 2000-2050 (vgl. Bodenmann, 2011)
+St_Hold_00	Steuern für Holdinggesellschaften in CHF/Jahr, nach Jahr 2000-2050 (vgl. Bodenmann, 2011)
+
+StE_h_00	Steuern bei hohem Einkommen in CHF/Jahr, nach Jahr 2000-2050 (vgl. Bodenmann, 2011)
+StV_h_00	Steuern bei hohem Vermögen in CHF/Jahr, nach Jahr 2000-2050 (vgl. Bodenmann, 2011)
+
+AAnsch_00	Dummy: Autobahnanschluss vorhanden, nach Jahr 2000-2050
+Bhf_00	Dummy: 	Bahnanschluss vorhanden, nach Jahr 2000-2050
+Bhf_NS_00	Dummy: Normalspurbahnanschluss vorhanden, nach Jahr 2000-2050

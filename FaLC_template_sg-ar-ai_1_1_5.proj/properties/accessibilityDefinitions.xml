@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<!-- if Yearly calculation is switch OFF, AVs are calculated before universe --> 	
+	<!-- TAGs 'execute' are used only if Yearly calculation is switch OFF --> 
+	<execute year="2005" />
+	<execute year="2010" />
+	<!-- Supported IDs: 1,2,3,4,5,6,7,8,9,10,11,12 --> 
+	<!-- default value for undefined variable is is 0 -->
+	<!-- Supported types: residents, workers, total -->
+	<!-- Restrictions: maxdistance is integer value -->	
+	<variable id="1" type="residents" description="residents with car travel time 2005">
+		<parameters table="distances/distances__sg-ar-ai_NPVM2005_car" maxdistance="50" beta="-0.2" minvalue="0.001" uselog="false" />
+	</variable>	
+	<variable id="2" type="workers" description="workers with car travel time 2005">
+		<parameters table="distances/distances__sg-ar-ai_NPVM2005_car" maxdistance="50" beta="-0.2" minvalue="0.001" uselog="false" />
+	</variable>
+	<variable id="3" type="residents" description="residents with public travel time 2005">
+		<parameters table="distances/distances__sg-ar-ai_NPVM2005_pt" maxdistance="50" beta="-0.2" minvalue="0.001" uselog="false" />
+	</variable>
+	<variable id="4" type="workers" description="workers with public travel time 2005">
+		<parameters table="distances/distances__sg-ar-ai_NPVM2005_pt" maxdistance="50" beta="-0.2" minvalue="0.001" uselog="false" />
+	</variable>
+	<variable id="5" type="residents" description="residents with bicycle travel time 2005">
+		<parameters table="distances/distances__sg-ar-ai_NPVM2005_bicycle" maxdistance="50" beta="-0.2" minvalue="0.001" uselog="false" />
+	</variable>
+	<variable id="6" type="workers" description="workers with bicycle travel time 2005">
+		<parameters table="distances/distances__sg-ar-ai_NPVM2005_bicycle" maxdistance="50" beta="-0.2" minvalue="0.001" uselog="false" />
+	</variable>	
+	
+	<!-- Evolution defines which distance tables will be used in what year to calculate accessibility variables --> 
+<!--			EVOLUTION	
+	<change_variable year="2001" id="1" table="distances/distances__CH_osm2001cv04mwrv12_car" />
+	<change_variable year="2001" id="2" table="distances/distances__CH_osm2001cv04mwrv12_car" />
+	<change_variable year="2002" id="1" table="distances/distances__CH_osm2002cv04mwrv12_car" />
+	<change_variable year="2002" id="2" table="distances/distances__CH_osm2002cv04mwrv12_car" />
+	<change_variable year="2003" id="1" table="distances/distances__CH_osm2003cv04mwrv12_car" />
+	<change_variable year="2003" id="2" table="distances/distances__CH_osm2003cv04mwrv12_car" />
+	<change_variable year="2005" id="1" table="distances/distances__CH_osm2005cv04mwrv12_car" />
+	<change_variable year="2005" id="2" table="distances/distances__CH_osm2005cv04mwrv12_car" />
+	<change_variable year="2006" id="1" table="distances/distances__CH_osm2006cv04mwrv12_car" />
+	<change_variable year="2006" id="2" table="distances/distances__CH_osm2006cv04mwrv12_car" />
+	<change_variable year="2008" id="1" table="distances/distances__CH_osm2008cv04mwrv12_car" />
+	<change_variable year="2008" id="2" table="distances/distances__CH_osm2008cv04mwrv12_car" />
+	<change_variable year="2010" id="1" table="distances/distances__CH_osm2010cv04mwrv12_car" />
+	<change_variable year="2010" id="2" table="distances/distances__CH_osm2010cv04mwrv12_car" />	
+-->	
+	
+	
+	
+</config>

@@ -1,0 +1,17 @@
+Probabilities for Divorce by years of marriage
+
+----------------------------------------------------------------------------------------
+Attribute:
+
+
+years 			years of marriage
+
+
+p_div_year		Probability that a person divorces after x years of marriage
+p_div_year_c		Cumulated probability that a person divorces after x years of marriage
+
+
+Source: BFS. Number of weddings from 1977 to 2011 (35 years mariage), number of divorces per years together on 2011 and weddigns by age on 2011. Average with probabilities to get divorced by lenght taking into consideration a first marriage between 18 and 35 years old
+Assumption: There is not first marriages before 18 years-old and after 35 years old (17 years)
+
+

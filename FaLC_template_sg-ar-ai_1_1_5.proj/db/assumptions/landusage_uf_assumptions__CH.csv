@@ -1,0 +1,10 @@
+"code";"zcode_text";"uf";"us_residential";"us_work";"max_residential";"max_work"
+11;"Zone for residential use (Wohnzone)";0.43;0.94;0.06;1;0.1
+12;"Zone for commercial and industrial use (Gewerbe und Industrie)";1;0.05;0.95;0.1;1
+13;"Zone for commercial and residential use (Gewerbezone mit Wohnen)";1;0.5;0.5;0.75;1
+14;"Core zone development (Kernzone Entwicklung)";1;0.5;0.5;0.9;0.9
+15;"Zone for public buildings ";0.05;0;1;0;1
+16;"eingeschränkte Bauzonen";0;0;0;0;0
+17;"Tourism and leisure zone (Tourismus und FreizeitZone)";0.05;0;0;1;1
+18;"Transport area";0.05;0;1;0;1
+19;"Weitere Bauzonen";0.05;0;1;0;1

@@ -1,0 +1,30 @@
+Floor Area per person (FApp)
+(in m2 per year and user type)
+----------------------------------------------------------
+
+The Floor Area per person (FApp) reflects the gross floor area that a person (as a resident or a worker) usually occupies. 
+The assumed FApp are generally derived from data of BFS  (Altwegg et al., 2003), Gilgen (2001), Huber (1992). 
+Although some additional assumptions have been made: e.g., in Gastronomy, we assume 30 m2 per room and 0.46 jobs per room. This results in about 65 m2 gross floor area per job (taking into consideration the hotel room as well as additional areas for restaurant, reception, and so on).
+The Monet indicators of BFS (Altwegg et al., 2003) show that the occupied floor area per person significantly increased over time. Monet indicators state between 1980 and 2000 a constant augmentation in the occupied floor area of 5m2 per decade. In 1980, each resident occupied 34m2; two decades later, in 2000, residents occupied 44 m2 per person. In FaLC, the same growth is considered till 2020. After 2020, a smaller growth is assumed (2.5 m2 per decade). 
+
+
+For details see Bodenmann et al. (2014).
+
+sector 		land use type (sector for firms, location type for residents)
+entity		explanation
+u2000-u2050	land usage for year 2000-2050
+
+user types
+  1 job agriculture
+  2 job production
+  3 job wholesale
+  4 job retail
+  5 job gastronomy
+  6 job finances
+  7 job services for companies
+  8 job other services
+  9 job others
+ 10 job non movers
+ 91 residents in large city
+ 92 residents in agglomeration+small cities
+ 94 residents countryside

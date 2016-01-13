@@ -1,0 +1,11 @@
+﻿Export aus der Datei NPVMplus_2000_v04.xls (oder neuer)
+
+Sterberaten nach Alter und Geschlecht 2000-2050
+
+s_m2000 bis s_m2050: Sterberaten Männer
+s_f2000 bis s_f2050: Sterberaten Frauen
+
+
+(zur Zeit alle Werte mit den Raten 2005)
+Angepasst für Modellierung (Bodenmann et al. 2009)
+Detaills siehe NPVMplus_2000_v04.xls

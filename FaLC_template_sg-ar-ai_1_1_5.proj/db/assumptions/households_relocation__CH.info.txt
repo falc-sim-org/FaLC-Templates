@@ -1,0 +1,15 @@
+﻿Relocation rates by age
+
+----------------------------------------------------------------------------------------
+Attributes:
+
+
+age                     Alter
+
+
+p_relocation		Umzugsrate pro Jahr nach Alter, ohne Auszug aus Elternhaus und Einzug in Heim 
+                        Quelle: VZ 2000, angepasst für Modellierung (Bodenmann et al., 2009)
+			Assumption: 90 years and older persons only relocate in retirement homes
+
+
+

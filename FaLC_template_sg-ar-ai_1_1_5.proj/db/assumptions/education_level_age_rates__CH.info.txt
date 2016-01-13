@@ -1,0 +1,18 @@
+﻿rates calculated by regioConcept based on:
+
+Federal Population Census 2000
+of FSO
+
+(Wohnbevölkerung 25 bis 64 Jahre nach Gemeinde, höchster abgeschlossener Ausbildung, Jahr; VZ 2000)
+
+Content:
+edu_lvl_id	level of education
+		 1  no education (keine)
+		 2  primary school (Obligatorische Schule)
+		 3  professional education (Berufsausbildung)
+		 4  secondary school / high school (Maturität)
+		 5  college of higher education and university degree (höhere Berufsausbildung, Universität)
+ 		 6  übrige (Kinder)
+
+name		name
+ageXX_YY	persons with age from XX to YY

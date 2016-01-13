@@ -1,0 +1,16 @@
+distance table
+based on NPVM 2005 from ARE
+
+Attributes
+---------------------------------------------------------------
+location_a_id  from location id [integer]
+location_b_id  to location id [integer]
+distance_1     Car distance in kilometers [numeric]
+distance_2     Car distance in minutes [numeric]
+distance_3     Public transport distance in kilometers [numeric]
+distance_4     Public transport distance in minutes [numeric]
+distance_5*    Bicycle distance in kilometers [numeric]
+distance_6*    Bicycle distance in minutes [numeric]
+distance_7*    Not used [numeric]
+distance_8*    Not used [numeric]
+* variable not used in Swiss Case Study 2013

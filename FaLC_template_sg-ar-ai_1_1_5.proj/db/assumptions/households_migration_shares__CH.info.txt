@@ -1,0 +1,13 @@
+assumptions to build immagrating families based on the number of immagrating persons
+
+Type	 ID of familiy type
+Name	 Name of familiy type
+Persons	 Number of persons in family type
+Share	 Share of family types, FaLC starts with type 3 to 1, remainig persons are in type 0
+age_m	 average age of immigrating men
+age_f	 average age of immigrating women
+age_ch1	 average age of first children
+age_ch2	 average age of second children
+age_diff variance of age
+
+Source: assumptions of FaLC-Team and check by simulation results for Swiss Case Study

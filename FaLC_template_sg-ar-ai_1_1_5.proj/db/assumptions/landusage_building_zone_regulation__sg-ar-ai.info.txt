@@ -1,0 +1,31 @@
+﻿Building zone by location type
+
+----------------------------------------------------------------------------------------
+Attributes:
+
+locid		(1) Location identifyer
+
+
+CODE		(11) Code of Building zone (ARE)
+		11 Zone for residential use (Wohnzone)
+		12 Zone for commercial and industrial use (Gewerbe und Industrie)
+		13 Zone for commercial and residential use (Gewerbezone mit Wohnen)
+		14 Core zone development (Kernzone Entwicklung)
+		15 Zone for public buildings
+		16 eingeschränkte Bauzonen
+		17 Tourism and leisure zone (Tourismus und FreizeitZone)
+		18 Transport area
+		19 Weitere Bauzonen
+
+
+name		name
+
+
+SIA_SURFACE_M2	(269393.05) Surface in square metres of Building zone
+
+
+TOTAL_SURFACE	(594374.8649) Sum of all the Building zone surfaces by location
+
+
+Source: Shapefile Bauzonenstatistik Schweiz -- http://www.are.admin.ch/themen/raumplanung/00236/04878/index.html?lang=de
+Creation of  an "Union" with the zones and dissolve it by zone-type and zone-number.

@@ -1,0 +1,790 @@
+locid;code;name;surface_m2;total_surface
+3001;11;Zone for residential use (Wohnzone);1468771;3812729
+3001;12;Zone for commercial and industrial use (Gewerbe und Industrie);609484;3812729
+3001;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);563563;3812729
+3001;14;Core zone development (Kernzone Entwicklung);184002;3812729
+3001;15;Zone for public buildings ;653043;3812729
+3001;16;eingeschränkte Bauzonen;299338;3812729
+3001;17;Tourism and leisure zone (Tourismus und FreizeitZone);34528;3812729
+3002;11;Zone for residential use (Wohnzone);39718;201125
+3002;12;Zone for commercial and industrial use (Gewerbe und Industrie);33307;201125
+3002;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);38145;201125
+3002;14;Core zone development (Kernzone Entwicklung);17801;201125
+3002;15;Zone for public buildings ;19382;201125
+3002;16;eingeschränkte Bauzonen;7048;201125
+3002;17;Tourism and leisure zone (Tourismus und FreizeitZone);45724;201125
+3003;11;Zone for residential use (Wohnzone);68187;149473
+3003;12;Zone for commercial and industrial use (Gewerbe und Industrie);1755;149473
+3003;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);21441;149473
+3003;14;Core zone development (Kernzone Entwicklung);29966;149473
+3003;15;Zone for public buildings ;15423;149473
+3003;16;eingeschränkte Bauzonen;12701;149473
+3004;11;Zone for residential use (Wohnzone);155747;389830
+3004;12;Zone for commercial and industrial use (Gewerbe und Industrie);53043;389830
+3004;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);68248;389830
+3004;14;Core zone development (Kernzone Entwicklung);15767;389830
+3004;15;Zone for public buildings ;58511;389830
+3004;16;eingeschränkte Bauzonen;26863;389830
+3004;17;Tourism and leisure zone (Tourismus und FreizeitZone);11651;389830
+3005;11;Zone for residential use (Wohnzone);109240;299160
+3005;12;Zone for commercial and industrial use (Gewerbe und Industrie);25790;299160
+3005;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);64286;299160
+3005;14;Core zone development (Kernzone Entwicklung);21264;299160
+3005;15;Zone for public buildings ;30786;299160
+3005;16;eingeschränkte Bauzonen;47794;299160
+3006;11;Zone for residential use (Wohnzone);164452;622543
+3006;12;Zone for commercial and industrial use (Gewerbe und Industrie);123680;622543
+3006;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);139500;622543
+3006;14;Core zone development (Kernzone Entwicklung);22669;622543
+3006;15;Zone for public buildings ;109886;622543
+3006;16;eingeschränkte Bauzonen;49328;622543
+3006;17;Tourism and leisure zone (Tourismus und FreizeitZone);13028;622543
+3007;11;Zone for residential use (Wohnzone);250719;537834
+3007;12;Zone for commercial and industrial use (Gewerbe und Industrie);93007;537834
+3007;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);53197;537834
+3007;14;Core zone development (Kernzone Entwicklung);28866;537834
+3007;15;Zone for public buildings ;62764;537834
+3007;16;eingeschränkte Bauzonen;40732;537834
+3007;17;Tourism and leisure zone (Tourismus und FreizeitZone);8549;537834
+3021;11;Zone for residential use (Wohnzone);170370;545425
+3021;12;Zone for commercial and industrial use (Gewerbe und Industrie);130366;545425
+3021;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);62202;545425
+3021;14;Core zone development (Kernzone Entwicklung);50043;545425
+3021;15;Zone for public buildings ;71864;545425
+3021;16;eingeschränkte Bauzonen;60580;545425
+3022;11;Zone for residential use (Wohnzone);302107;841136
+3022;12;Zone for commercial and industrial use (Gewerbe und Industrie);76032;841136
+3022;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);196119;841136
+3022;14;Core zone development (Kernzone Entwicklung);45278;841136
+3022;15;Zone for public buildings ;127152;841136
+3022;16;eingeschränkte Bauzonen;50062;841136
+3022;17;Tourism and leisure zone (Tourismus und FreizeitZone);44386;841136
+3023;11;Zone for residential use (Wohnzone);551419;1151561
+3023;12;Zone for commercial and industrial use (Gewerbe und Industrie);81138;1151561
+3023;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);236885;1151561
+3023;14;Core zone development (Kernzone Entwicklung);56898;1151561
+3023;15;Zone for public buildings ;115682;1151561
+3023;16;eingeschränkte Bauzonen;77533;1151561
+3023;17;Tourism and leisure zone (Tourismus und FreizeitZone);32006;1151561
+3024;11;Zone for residential use (Wohnzone);724326;1672314
+3024;12;Zone for commercial and industrial use (Gewerbe und Industrie);145164;1672314
+3024;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);350540;1672314
+3024;14;Core zone development (Kernzone Entwicklung);93093;1672314
+3024;15;Zone for public buildings ;268245;1672314
+3024;16;eingeschränkte Bauzonen;77723;1672314
+3024;17;Tourism and leisure zone (Tourismus und FreizeitZone);13223;1672314
+3025;11;Zone for residential use (Wohnzone);227077;603238
+3025;12;Zone for commercial and industrial use (Gewerbe und Industrie);48152;603238
+3025;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);58704;603238
+3025;14;Core zone development (Kernzone Entwicklung);45768;603238
+3025;15;Zone for public buildings ;151092;603238
+3025;16;eingeschränkte Bauzonen;72445;603238
+3031;11;Zone for residential use (Wohnzone);124612;258183
+3031;12;Zone for commercial and industrial use (Gewerbe und Industrie);3973;258183
+3031;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);48177;258183
+3031;15;Zone for public buildings ;44041;258183
+3031;16;eingeschränkte Bauzonen;11549;258183
+3031;17;Tourism and leisure zone (Tourismus und FreizeitZone);25831;258183
+3032;11;Zone for residential use (Wohnzone);452321;1164486
+3032;12;Zone for commercial and industrial use (Gewerbe und Industrie);102497;1164486
+3032;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);242474;1164486
+3032;14;Core zone development (Kernzone Entwicklung);85445;1164486
+3032;15;Zone for public buildings ;132911;1164486
+3032;16;eingeschränkte Bauzonen;71600;1164486
+3032;17;Tourism and leisure zone (Tourismus und FreizeitZone);77238;1164486
+3033;11;Zone for residential use (Wohnzone);168338;501864
+3033;12;Zone for commercial and industrial use (Gewerbe und Industrie);2748;501864
+3033;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);137285;501864
+3033;14;Core zone development (Kernzone Entwicklung);35224;501864
+3033;15;Zone for public buildings ;25958;501864
+3033;16;eingeschränkte Bauzonen;102707;501864
+3033;17;Tourism and leisure zone (Tourismus und FreizeitZone);29604;501864
+3034;11;Zone for residential use (Wohnzone);149781;416245
+3034;12;Zone for commercial and industrial use (Gewerbe und Industrie);18040;416245
+3034;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);133043;416245
+3034;14;Core zone development (Kernzone Entwicklung);26972;416245
+3034;15;Zone for public buildings ;36080;416245
+3034;16;eingeschränkte Bauzonen;47810;416245
+3034;17;Tourism and leisure zone (Tourismus und FreizeitZone);4519;416245
+3035;11;Zone for residential use (Wohnzone);60203;193682
+3035;12;Zone for commercial and industrial use (Gewerbe und Industrie);4131;193682
+3035;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);108435;193682
+3035;15;Zone for public buildings ;19745;193682
+3035;16;eingeschränkte Bauzonen;1168;193682
+3036;11;Zone for residential use (Wohnzone);77136;221387
+3036;12;Zone for commercial and industrial use (Gewerbe und Industrie);14356;221387
+3036;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);65714;221387
+3036;14;Core zone development (Kernzone Entwicklung);18628;221387
+3036;15;Zone for public buildings ;22715;221387
+3036;16;eingeschränkte Bauzonen;22838;221387
+3037;11;Zone for residential use (Wohnzone);287224;697289
+3037;12;Zone for commercial and industrial use (Gewerbe und Industrie);63248;697289
+3037;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);120401;697289
+3037;14;Core zone development (Kernzone Entwicklung);47485;697289
+3037;15;Zone for public buildings ;73553;697289
+3037;16;eingeschränkte Bauzonen;69155;697289
+3037;17;Tourism and leisure zone (Tourismus und FreizeitZone);36223;697289
+3038;11;Zone for residential use (Wohnzone);175010;481751
+3038;12;Zone for commercial and industrial use (Gewerbe und Industrie);79244;481751
+3038;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);119767;481751
+3038;14;Core zone development (Kernzone Entwicklung);45869;481751
+3038;15;Zone for public buildings ;24422;481751
+3038;16;eingeschränkte Bauzonen;37439;481751
+3101;11;Zone for residential use (Wohnzone);677062;1585627
+3101;12;Zone for commercial and industrial use (Gewerbe und Industrie);181030;1585627
+3101;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);317774;1585627
+3101;14;Core zone development (Kernzone Entwicklung);154293;1585627
+3101;15;Zone for public buildings ;173119;1585627
+3101;16;eingeschränkte Bauzonen;54054;1585627
+3101;17;Tourism and leisure zone (Tourismus und FreizeitZone);28295;1585627
+3102;11;Zone for residential use (Wohnzone);113513;381603
+3102;12;Zone for commercial and industrial use (Gewerbe und Industrie);27107;381603
+3102;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);78809;381603
+3102;14;Core zone development (Kernzone Entwicklung);63325;381603
+3102;15;Zone for public buildings ;15833;381603
+3102;16;eingeschränkte Bauzonen;36802;381603
+3102;17;Tourism and leisure zone (Tourismus und FreizeitZone);46214;381603
+3103;11;Zone for residential use (Wohnzone);569123;872921
+3103;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);113223;872921
+3103;14;Core zone development (Kernzone Entwicklung);55934;872921
+3103;15;Zone for public buildings ;58010;872921
+3103;16;eingeschränkte Bauzonen;76631;872921
+3104;11;Zone for residential use (Wohnzone);42085;157798
+3104;12;Zone for commercial and industrial use (Gewerbe und Industrie);24120;157798
+3104;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);62813;157798
+3104;14;Core zone development (Kernzone Entwicklung);14770;157798
+3104;15;Zone for public buildings ;12872;157798
+3104;16;eingeschränkte Bauzonen;1138;157798
+3105;11;Zone for residential use (Wohnzone);327771;640225
+3105;12;Zone for commercial and industrial use (Gewerbe und Industrie);21170;640225
+3105;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);99318;640225
+3105;14;Core zone development (Kernzone Entwicklung);54507;640225
+3105;15;Zone for public buildings ;53637;640225
+3105;16;eingeschränkte Bauzonen;83822;640225
+3111;11;Zone for residential use (Wohnzone);220718;434626
+3111;12;Zone for commercial and industrial use (Gewerbe und Industrie);44541;434626
+3111;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);83859;434626
+3111;14;Core zone development (Kernzone Entwicklung);28887;434626
+3111;15;Zone for public buildings ;27955;434626
+3111;16;eingeschränkte Bauzonen;28666;434626
+3201;11;Zone for residential use (Wohnzone);113137;340365
+3201;12;Zone for commercial and industrial use (Gewerbe und Industrie);117864;340365
+3201;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);40006;340365
+3201;14;Core zone development (Kernzone Entwicklung);20580;340365
+3201;15;Zone for public buildings ;47086;340365
+3201;16;eingeschränkte Bauzonen;452;340365
+3201;17;Tourism and leisure zone (Tourismus und FreizeitZone);1240;340365
+3202;11;Zone for residential use (Wohnzone);100586;264178
+3202;12;Zone for commercial and industrial use (Gewerbe und Industrie);46075;264178
+3202;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);53090;264178
+3202;14;Core zone development (Kernzone Entwicklung);43169;264178
+3202;15;Zone for public buildings ;21258;264178
+3204;11;Zone for residential use (Wohnzone);1096733;2169471
+3204;12;Zone for commercial and industrial use (Gewerbe und Industrie);226398;2169471
+3204;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);210301;2169471
+3204;14;Core zone development (Kernzone Entwicklung);62514;2169471
+3204;15;Zone for public buildings ;326901;2169471
+3204;16;eingeschränkte Bauzonen;132091;2169471
+3204;17;Tourism and leisure zone (Tourismus und FreizeitZone);114533;2169471
+3211;11;Zone for residential use (Wohnzone);182318;240656
+3211;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);2329;240656
+3211;14;Core zone development (Kernzone Entwicklung);15849;240656
+3211;15;Zone for public buildings ;30927;240656
+3211;16;eingeschränkte Bauzonen;9233;240656
+3212;11;Zone for residential use (Wohnzone);294393;540949
+3212;12;Zone for commercial and industrial use (Gewerbe und Industrie);7739;540949
+3212;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);71015;540949
+3212;14;Core zone development (Kernzone Entwicklung);74557;540949
+3212;15;Zone for public buildings ;78088;540949
+3212;16;eingeschränkte Bauzonen;8187;540949
+3212;17;Tourism and leisure zone (Tourismus und FreizeitZone);6970;540949
+3213;11;Zone for residential use (Wohnzone);1076740;2471336
+3213;12;Zone for commercial and industrial use (Gewerbe und Industrie);606865;2471336
+3213;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);315690;2471336
+3213;14;Core zone development (Kernzone Entwicklung);80651;2471336
+3213;15;Zone for public buildings ;238839;2471336
+3213;16;eingeschränkte Bauzonen;147741;2471336
+3213;17;Tourism and leisure zone (Tourismus und FreizeitZone);4810;2471336
+3214;11;Zone for residential use (Wohnzone);551858;1101488
+3214;12;Zone for commercial and industrial use (Gewerbe und Industrie);165725;1101488
+3214;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);103661;1101488
+3214;14;Core zone development (Kernzone Entwicklung);191898;1101488
+3214;15;Zone for public buildings ;85959;1101488
+3214;16;eingeschränkte Bauzonen;2339;1101488
+3214;17;Tourism and leisure zone (Tourismus und FreizeitZone);48;1101488
+3215;11;Zone for residential use (Wohnzone);516346;1338668
+3215;12;Zone for commercial and industrial use (Gewerbe und Industrie);133882;1338668
+3215;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);170859;1338668
+3215;14;Core zone development (Kernzone Entwicklung);118915;1338668
+3215;15;Zone for public buildings ;248162;1338668
+3215;16;eingeschränkte Bauzonen;137121;1338668
+3215;17;Tourism and leisure zone (Tourismus und FreizeitZone);13383;1338668
+3216;11;Zone for residential use (Wohnzone);1102439;1725456
+3216;12;Zone for commercial and industrial use (Gewerbe und Industrie);88679;1725456
+3216;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);232478;1725456
+3216;15;Zone for public buildings ;227147;1725456
+3216;16;eingeschränkte Bauzonen;74412;1725456
+3216;17;Tourism and leisure zone (Tourismus und FreizeitZone);301;1725456
+3217;11;Zone for residential use (Wohnzone);323555;1094664
+3217;12;Zone for commercial and industrial use (Gewerbe und Industrie);271620;1094664
+3217;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);114395;1094664
+3217;14;Core zone development (Kernzone Entwicklung);134025;1094664
+3217;15;Zone for public buildings ;185163;1094664
+3217;17;Tourism and leisure zone (Tourismus und FreizeitZone);65906;1094664
+3218;11;Zone for residential use (Wohnzone);200617;582242
+3218;12;Zone for commercial and industrial use (Gewerbe und Industrie);137858;582242
+3218;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);41072;582242
+3218;14;Core zone development (Kernzone Entwicklung);28846;582242
+3218;15;Zone for public buildings ;135052;582242
+3218;16;eingeschränkte Bauzonen;11871;582242
+3218;17;Tourism and leisure zone (Tourismus und FreizeitZone);26926;582242
+3219;11;Zone for residential use (Wohnzone);124062;252823
+3219;12;Zone for commercial and industrial use (Gewerbe und Industrie);24989;252823
+3219;14;Core zone development (Kernzone Entwicklung);70104;252823
+3219;15;Zone for public buildings ;19171;252823
+3219;16;eingeschränkte Bauzonen;14497;252823
+3231;11;Zone for residential use (Wohnzone);925759;2181676
+3231;12;Zone for commercial and industrial use (Gewerbe und Industrie);355704;2181676
+3231;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);422270;2181676
+3231;14;Core zone development (Kernzone Entwicklung);143040;2181676
+3231;15;Zone for public buildings ;307921;2181676
+3231;16;eingeschränkte Bauzonen;26674;2181676
+3231;17;Tourism and leisure zone (Tourismus und FreizeitZone);308;2181676
+3232;11;Zone for residential use (Wohnzone);809873;1511772
+3232;12;Zone for commercial and industrial use (Gewerbe und Industrie);208331;1511772
+3232;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);244134;1511772
+3232;14;Core zone development (Kernzone Entwicklung);60353;1511772
+3232;15;Zone for public buildings ;136148;1511772
+3232;16;eingeschränkte Bauzonen;18748;1511772
+3232;17;Tourism and leisure zone (Tourismus und FreizeitZone);34185;1511772
+3233;11;Zone for residential use (Wohnzone);621360;1255946
+3233;12;Zone for commercial and industrial use (Gewerbe und Industrie);202060;1255946
+3233;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);277858;1255946
+3233;14;Core zone development (Kernzone Entwicklung);36939;1255946
+3233;15;Zone for public buildings ;110971;1255946
+3233;16;eingeschränkte Bauzonen;6758;1255946
+3234;11;Zone for residential use (Wohnzone);747472;1922294
+3234;12;Zone for commercial and industrial use (Gewerbe und Industrie);322860;1922294
+3234;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);496335;1922294
+3234;14;Core zone development (Kernzone Entwicklung);71083;1922294
+3234;15;Zone for public buildings ;221524;1922294
+3234;16;eingeschränkte Bauzonen;4262;1922294
+3234;17;Tourism and leisure zone (Tourismus und FreizeitZone);58758;1922294
+3235;11;Zone for residential use (Wohnzone);428484;1022895
+3235;12;Zone for commercial and industrial use (Gewerbe und Industrie);189687;1022895
+3235;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);119436;1022895
+3235;14;Core zone development (Kernzone Entwicklung);70503;1022895
+3235;15;Zone for public buildings ;149652;1022895
+3235;16;eingeschränkte Bauzonen;51749;1022895
+3235;17;Tourism and leisure zone (Tourismus und FreizeitZone);13384;1022895
+3236;11;Zone for residential use (Wohnzone);693559;1961832
+3236;12;Zone for commercial and industrial use (Gewerbe und Industrie);532250;1961832
+3236;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);373400;1961832
+3236;14;Core zone development (Kernzone Entwicklung);145166;1961832
+3236;15;Zone for public buildings ;144786;1961832
+3236;16;eingeschränkte Bauzonen;644;1961832
+3236;17;Tourism and leisure zone (Tourismus und FreizeitZone);72027;1961832
+3237;11;Zone for residential use (Wohnzone);789095;2798035
+3237;12;Zone for commercial and industrial use (Gewerbe und Industrie);824832;2798035
+3237;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);443271;2798035
+3237;14;Core zone development (Kernzone Entwicklung);234818;2798035
+3237;15;Zone for public buildings ;317462;2798035
+3237;16;eingeschränkte Bauzonen;79644;2798035
+3237;17;Tourism and leisure zone (Tourismus und FreizeitZone);108913;2798035
+3238;11;Zone for residential use (Wohnzone);1388515;2813712
+3238;12;Zone for commercial and industrial use (Gewerbe und Industrie);497647;2813712
+3238;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);425768;2813712
+3238;14;Core zone development (Kernzone Entwicklung);127378;2813712
+3238;15;Zone for public buildings ;306602;2813712
+3238;16;eingeschränkte Bauzonen;44745;2813712
+3238;17;Tourism and leisure zone (Tourismus und FreizeitZone);23057;2813712
+3251;11;Zone for residential use (Wohnzone);1408131;4001539
+3251;12;Zone for commercial and industrial use (Gewerbe und Industrie);926756;4001539
+3251;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);608833;4001539
+3251;14;Core zone development (Kernzone Entwicklung);307341;4001539
+3251;15;Zone for public buildings ;611436;4001539
+3251;16;eingeschränkte Bauzonen;71552;4001539
+3251;17;Tourism and leisure zone (Tourismus und FreizeitZone);67490;4001539
+3252;11;Zone for residential use (Wohnzone);299377;497055
+3252;12;Zone for commercial and industrial use (Gewerbe und Industrie);25749;497055
+3252;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);109584;497055
+3252;14;Core zone development (Kernzone Entwicklung);9489;497055
+3252;15;Zone for public buildings ;21533;497055
+3252;16;eingeschränkte Bauzonen;8471;497055
+3252;17;Tourism and leisure zone (Tourismus und FreizeitZone);22852;497055
+3253;11;Zone for residential use (Wohnzone);312096;664375
+3253;12;Zone for commercial and industrial use (Gewerbe und Industrie);57238;664375
+3253;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);179509;664375
+3253;14;Core zone development (Kernzone Entwicklung);30087;664375
+3253;15;Zone for public buildings ;84813;664375
+3253;16;eingeschränkte Bauzonen;632;664375
+3254;11;Zone for residential use (Wohnzone);1200628;3524076
+3254;12;Zone for commercial and industrial use (Gewerbe und Industrie);728232;3524076
+3254;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);552006;3524076
+3254;14;Core zone development (Kernzone Entwicklung);484880;3524076
+3254;15;Zone for public buildings ;424766;3524076
+3254;16;eingeschränkte Bauzonen;17500;3524076
+3254;17;Tourism and leisure zone (Tourismus und FreizeitZone);116064;3524076
+3255;11;Zone for residential use (Wohnzone);664906;1345951
+3255;12;Zone for commercial and industrial use (Gewerbe und Industrie);142769;1345951
+3255;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);284578;1345951
+3255;14;Core zone development (Kernzone Entwicklung);37304;1345951
+3255;15;Zone for public buildings ;127776;1345951
+3255;16;eingeschränkte Bauzonen;2567;1345951
+3255;17;Tourism and leisure zone (Tourismus und FreizeitZone);86051;1345951
+3256;11;Zone for residential use (Wohnzone);340977;1008322
+3256;12;Zone for commercial and industrial use (Gewerbe und Industrie);208243;1008322
+3256;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);254594;1008322
+3256;14;Core zone development (Kernzone Entwicklung);46759;1008322
+3256;15;Zone for public buildings ;79915;1008322
+3256;16;eingeschränkte Bauzonen;5550;1008322
+3256;17;Tourism and leisure zone (Tourismus und FreizeitZone);72284;1008322
+3271;11;Zone for residential use (Wohnzone);1191953;3149212
+3271;12;Zone for commercial and industrial use (Gewerbe und Industrie);676580;3149212
+3271;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);603894;3149212
+3271;14;Core zone development (Kernzone Entwicklung);140703;3149212
+3271;15;Zone for public buildings ;525917;3149212
+3271;16;eingeschränkte Bauzonen;2972;3149212
+3271;17;Tourism and leisure zone (Tourismus und FreizeitZone);7193;3149212
+3272;11;Zone for residential use (Wohnzone);552650;1119688
+3272;12;Zone for commercial and industrial use (Gewerbe und Industrie);113467;1119688
+3272;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);140963;1119688
+3272;14;Core zone development (Kernzone Entwicklung);170689;1119688
+3272;15;Zone for public buildings ;130824;1119688
+3272;16;eingeschränkte Bauzonen;2938;1119688
+3272;17;Tourism and leisure zone (Tourismus und FreizeitZone);8157;1119688
+3273;11;Zone for residential use (Wohnzone);848490;1951571
+3273;12;Zone for commercial and industrial use (Gewerbe und Industrie);206080;1951571
+3273;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);349604;1951571
+3273;14;Core zone development (Kernzone Entwicklung);187621;1951571
+3273;15;Zone for public buildings ;217265;1951571
+3273;16;eingeschränkte Bauzonen;790;1951571
+3273;17;Tourism and leisure zone (Tourismus und FreizeitZone);141721;1951571
+3274;11;Zone for residential use (Wohnzone);697090;2666931
+3274;12;Zone for commercial and industrial use (Gewerbe und Industrie);922426;2666931
+3274;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);459602;2666931
+3274;14;Core zone development (Kernzone Entwicklung);153419;2666931
+3274;15;Zone for public buildings ;363148;2666931
+3274;16;eingeschränkte Bauzonen;21070;2666931
+3274;17;Tourism and leisure zone (Tourismus und FreizeitZone);50176;2666931
+3275;11;Zone for residential use (Wohnzone);774922;1535530
+3275;12;Zone for commercial and industrial use (Gewerbe und Industrie);262939;1535530
+3275;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);173098;1535530
+3275;14;Core zone development (Kernzone Entwicklung);149748;1535530
+3275;15;Zone for public buildings ;130480;1535530
+3275;16;eingeschränkte Bauzonen;28044;1535530
+3275;17;Tourism and leisure zone (Tourismus und FreizeitZone);16299;1535530
+3276;11;Zone for residential use (Wohnzone);759531;1635362
+3276;12;Zone for commercial and industrial use (Gewerbe und Industrie);259069;1635362
+3276;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);116436;1635362
+3276;14;Core zone development (Kernzone Entwicklung);313985;1635362
+3276;15;Zone for public buildings ;165874;1635362
+3276;16;eingeschränkte Bauzonen;2555;1635362
+3276;17;Tourism and leisure zone (Tourismus und FreizeitZone);17912;1635362
+3291;11;Zone for residential use (Wohnzone);839830;1610560
+3291;12;Zone for commercial and industrial use (Gewerbe und Industrie);124946;1610560
+3291;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);160063;1610560
+3291;14;Core zone development (Kernzone Entwicklung);66363;1610560
+3291;15;Zone for public buildings ;163598;1610560
+3291;16;eingeschränkte Bauzonen;2998;1610560
+3291;17;Tourism and leisure zone (Tourismus und FreizeitZone);252762;1610560
+3292;11;Zone for residential use (Wohnzone);927669;1625990
+3292;12;Zone for commercial and industrial use (Gewerbe und Industrie);215442;1625990
+3292;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);140167;1625990
+3292;14;Core zone development (Kernzone Entwicklung);158743;1625990
+3292;15;Zone for public buildings ;144178;1625990
+3292;16;eingeschränkte Bauzonen;4454;1625990
+3292;17;Tourism and leisure zone (Tourismus und FreizeitZone);35337;1625990
+3293;11;Zone for residential use (Wohnzone);1123018;2060504
+3293;12;Zone for commercial and industrial use (Gewerbe und Industrie);288973;2060504
+3293;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);185886;2060504
+3293;14;Core zone development (Kernzone Entwicklung);134450;2060504
+3293;15;Zone for public buildings ;306030;2060504
+3293;16;eingeschränkte Bauzonen;20047;2060504
+3293;17;Tourism and leisure zone (Tourismus und FreizeitZone);2100;2060504
+3294;11;Zone for residential use (Wohnzone);310736;702775
+3294;12;Zone for commercial and industrial use (Gewerbe und Industrie);14349;702775
+3294;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);82340;702775
+3294;14;Core zone development (Kernzone Entwicklung);118125;702775
+3294;15;Zone for public buildings ;125773;702775
+3294;17;Tourism and leisure zone (Tourismus und FreizeitZone);51452;702775
+3295;11;Zone for residential use (Wohnzone);622766;1148009
+3295;12;Zone for commercial and industrial use (Gewerbe und Industrie);49755;1148009
+3295;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);131170;1148009
+3295;14;Core zone development (Kernzone Entwicklung);177875;1148009
+3295;15;Zone for public buildings ;104055;1148009
+3295;16;eingeschränkte Bauzonen;6563;1148009
+3295;17;Tourism and leisure zone (Tourismus und FreizeitZone);55825;1148009
+3296;11;Zone for residential use (Wohnzone);709661;1549932
+3296;12;Zone for commercial and industrial use (Gewerbe und Industrie);329507;1549932
+3296;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);157944;1549932
+3296;14;Core zone development (Kernzone Entwicklung);131648;1549932
+3296;15;Zone for public buildings ;185156;1549932
+3296;16;eingeschränkte Bauzonen;12742;1549932
+3296;17;Tourism and leisure zone (Tourismus und FreizeitZone);23274;1549932
+3297;11;Zone for residential use (Wohnzone);704882;1338338
+3297;12;Zone for commercial and industrial use (Gewerbe und Industrie);193960;1338338
+3297;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);158172;1338338
+3297;14;Core zone development (Kernzone Entwicklung);119680;1338338
+3297;15;Zone for public buildings ;119457;1338338
+3297;16;eingeschränkte Bauzonen;5591;1338338
+3297;17;Tourism and leisure zone (Tourismus und FreizeitZone);36596;1338338
+3298;11;Zone for residential use (Wohnzone);684273;1622837
+3298;12;Zone for commercial and industrial use (Gewerbe und Industrie);212273;1622837
+3298;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);190516;1622837
+3298;14;Core zone development (Kernzone Entwicklung);133162;1622837
+3298;15;Zone for public buildings ;305157;1622837
+3298;16;eingeschränkte Bauzonen;8383;1622837
+3298;17;Tourism and leisure zone (Tourismus und FreizeitZone);89073;1622837
+3311;11;Zone for residential use (Wohnzone);389684;746804
+3311;12;Zone for commercial and industrial use (Gewerbe und Industrie);6427;746804
+3311;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);30009;746804
+3311;14;Core zone development (Kernzone Entwicklung);133653;746804
+3311;15;Zone for public buildings ;83703;746804
+3311;16;eingeschränkte Bauzonen;32742;746804
+3311;17;Tourism and leisure zone (Tourismus und FreizeitZone);70586;746804
+3312;11;Zone for residential use (Wohnzone);288524;738123
+3312;12;Zone for commercial and industrial use (Gewerbe und Industrie);124887;738123
+3312;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);186130;738123
+3312;14;Core zone development (Kernzone Entwicklung);53282;738123
+3312;15;Zone for public buildings ;55153;738123
+3312;16;eingeschränkte Bauzonen;3916;738123
+3312;17;Tourism and leisure zone (Tourismus und FreizeitZone);26023;738123
+3312;19;Weitere Bauzonen;208;738123
+3313;11;Zone for residential use (Wohnzone);439005;1120698
+3313;12;Zone for commercial and industrial use (Gewerbe und Industrie);223557;1120698
+3313;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);237225;1120698
+3313;14;Core zone development (Kernzone Entwicklung);67920;1120698
+3313;15;Zone for public buildings ;108192;1120698
+3313;16;eingeschränkte Bauzonen;123;1120698
+3313;17;Tourism and leisure zone (Tourismus und FreizeitZone);44676;1120698
+3314;11;Zone for residential use (Wohnzone);174567;222540
+3314;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);12126;222540
+3314;14;Core zone development (Kernzone Entwicklung);26910;222540
+3314;15;Zone for public buildings ;6343;222540
+3314;16;eingeschränkte Bauzonen;2594;222540
+3315;11;Zone for residential use (Wohnzone);496499;991874
+3315;12;Zone for commercial and industrial use (Gewerbe und Industrie);144534;991874
+3315;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);132705;991874
+3315;14;Core zone development (Kernzone Entwicklung);96281;991874
+3315;15;Zone for public buildings ;79021;991874
+3315;16;eingeschränkte Bauzonen;9434;991874
+3315;17;Tourism and leisure zone (Tourismus und FreizeitZone);33400;991874
+3316;11;Zone for residential use (Wohnzone);299339;582079
+3316;12;Zone for commercial and industrial use (Gewerbe und Industrie);37281;582079
+3316;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);46782;582079
+3316;14;Core zone development (Kernzone Entwicklung);54677;582079
+3316;15;Zone for public buildings ;64956;582079
+3316;16;eingeschränkte Bauzonen;52776;582079
+3316;17;Tourism and leisure zone (Tourismus und FreizeitZone);26268;582079
+3331;11;Zone for residential use (Wohnzone);251692;436286
+3331;12;Zone for commercial and industrial use (Gewerbe und Industrie);6256;436286
+3331;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);96506;436286
+3331;14;Core zone development (Kernzone Entwicklung);23773;436286
+3331;15;Zone for public buildings ;19732;436286
+3331;16;eingeschränkte Bauzonen;12714;436286
+3331;17;Tourism and leisure zone (Tourismus und FreizeitZone);25613;436286
+3332;11;Zone for residential use (Wohnzone);689099;1648569
+3332;12;Zone for commercial and industrial use (Gewerbe und Industrie);318486;1648569
+3332;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);333073;1648569
+3332;14;Core zone development (Kernzone Entwicklung);108949;1648569
+3332;15;Zone for public buildings ;175287;1648569
+3332;16;eingeschränkte Bauzonen;23675;1648569
+3333;11;Zone for residential use (Wohnzone);119116;308983
+3333;12;Zone for commercial and industrial use (Gewerbe und Industrie);27171;308983
+3333;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);59437;308983
+3333;14;Core zone development (Kernzone Entwicklung);43765;308983
+3333;15;Zone for public buildings ;55509;308983
+3333;16;eingeschränkte Bauzonen;3985;308983
+3334;11;Zone for residential use (Wohnzone);508543;746734
+3334;12;Zone for commercial and industrial use (Gewerbe und Industrie);66296;746734
+3334;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);67443;746734
+3334;14;Core zone development (Kernzone Entwicklung);38591;746734
+3334;15;Zone for public buildings ;51372;746734
+3334;16;eingeschränkte Bauzonen;654;746734
+3334;17;Tourism and leisure zone (Tourismus und FreizeitZone);13835;746734
+3335;11;Zone for residential use (Wohnzone);2407429;4752802
+3335;12;Zone for commercial and industrial use (Gewerbe und Industrie);687808;4752802
+3335;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);211305;4752802
+3335;14;Core zone development (Kernzone Entwicklung);236027;4752802
+3335;15;Zone for public buildings ;468906;4752802
+3335;16;eingeschränkte Bauzonen;80409;4752802
+3335;17;Tourism and leisure zone (Tourismus und FreizeitZone);660918;4752802
+3336;11;Zone for residential use (Wohnzone);531446;1305414
+3336;12;Zone for commercial and industrial use (Gewerbe und Industrie);74202;1305414
+3336;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);178197;1305414
+3336;14;Core zone development (Kernzone Entwicklung);158458;1305414
+3336;15;Zone for public buildings ;255383;1305414
+3336;16;eingeschränkte Bauzonen;2464;1305414
+3336;17;Tourism and leisure zone (Tourismus und FreizeitZone);105264;1305414
+3337;11;Zone for residential use (Wohnzone);217864;571410
+3337;12;Zone for commercial and industrial use (Gewerbe und Industrie);35793;571410
+3337;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);142430;571410
+3337;14;Core zone development (Kernzone Entwicklung);50123;571410
+3337;15;Zone for public buildings ;83621;571410
+3337;16;eingeschränkte Bauzonen;5290;571410
+3337;17;Tourism and leisure zone (Tourismus und FreizeitZone);36289;571410
+3338;11;Zone for residential use (Wohnzone);391045;1070825
+3338;12;Zone for commercial and industrial use (Gewerbe und Industrie);236133;1070825
+3338;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);164520;1070825
+3338;14;Core zone development (Kernzone Entwicklung);43083;1070825
+3338;15;Zone for public buildings ;117451;1070825
+3338;16;eingeschränkte Bauzonen;13239;1070825
+3338;17;Tourism and leisure zone (Tourismus und FreizeitZone);105354;1070825
+3339;11;Zone for residential use (Wohnzone);724814;1726492
+3339;12;Zone for commercial and industrial use (Gewerbe und Industrie);326641;1726492
+3339;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);338740;1726492
+3339;14;Core zone development (Kernzone Entwicklung);78041;1726492
+3339;15;Zone for public buildings ;203454;1726492
+3339;16;eingeschränkte Bauzonen;38248;1726492
+3339;17;Tourism and leisure zone (Tourismus und FreizeitZone);16554;1726492
+3351;11;Zone for residential use (Wohnzone);348524;729768
+3351;12;Zone for commercial and industrial use (Gewerbe und Industrie);56362;729768
+3351;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);110683;729768
+3351;14;Core zone development (Kernzone Entwicklung);60143;729768
+3351;15;Zone for public buildings ;84107;729768
+3351;16;eingeschränkte Bauzonen;17222;729768
+3351;17;Tourism and leisure zone (Tourismus und FreizeitZone);52727;729768
+3352;11;Zone for residential use (Wohnzone);581495;1300352
+3352;12;Zone for commercial and industrial use (Gewerbe und Industrie);197145;1300352
+3352;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);157784;1300352
+3352;14;Core zone development (Kernzone Entwicklung);223815;1300352
+3352;15;Zone for public buildings ;87684;1300352
+3352;16;eingeschränkte Bauzonen;27828;1300352
+3352;17;Tourism and leisure zone (Tourismus und FreizeitZone);24601;1300352
+3354;11;Zone for residential use (Wohnzone);290014;744098
+3354;12;Zone for commercial and industrial use (Gewerbe und Industrie);86794;744098
+3354;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);148800;744098
+3354;14;Core zone development (Kernzone Entwicklung);112979;744098
+3354;15;Zone for public buildings ;46456;744098
+3354;16;eingeschränkte Bauzonen;33427;744098
+3354;17;Tourism and leisure zone (Tourismus und FreizeitZone);25628;744098
+3355;11;Zone for residential use (Wohnzone);230522;602385
+3355;12;Zone for commercial and industrial use (Gewerbe und Industrie);72372;602385
+3355;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);98821;602385
+3355;14;Core zone development (Kernzone Entwicklung);89572;602385
+3355;15;Zone for public buildings ;100592;602385
+3355;16;eingeschränkte Bauzonen;2573;602385
+3355;17;Tourism and leisure zone (Tourismus und FreizeitZone);7933;602385
+3356;11;Zone for residential use (Wohnzone);31029;121591
+3356;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);29662;121591
+3356;14;Core zone development (Kernzone Entwicklung);24308;121591
+3356;15;Zone for public buildings ;22098;121591
+3356;16;eingeschränkte Bauzonen;6507;121591
+3356;17;Tourism and leisure zone (Tourismus und FreizeitZone);7987;121591
+3357;11;Zone for residential use (Wohnzone);500827;877122
+3357;12;Zone for commercial and industrial use (Gewerbe und Industrie);8015;877122
+3357;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);101860;877122
+3357;14;Core zone development (Kernzone Entwicklung);63099;877122
+3357;15;Zone for public buildings ;91499;877122
+3357;16;eingeschränkte Bauzonen;27047;877122
+3357;17;Tourism and leisure zone (Tourismus und FreizeitZone);84775;877122
+3371;11;Zone for residential use (Wohnzone);92486;235844
+3371;12;Zone for commercial and industrial use (Gewerbe und Industrie);20467;235844
+3371;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);54483;235844
+3371;14;Core zone development (Kernzone Entwicklung);31750;235844
+3371;15;Zone for public buildings ;30262;235844
+3371;16;eingeschränkte Bauzonen;6396;235844
+3372;11;Zone for residential use (Wohnzone);113076;251190
+3372;12;Zone for commercial and industrial use (Gewerbe und Industrie);19844;251190
+3372;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);26018;251190
+3372;14;Core zone development (Kernzone Entwicklung);39024;251190
+3372;15;Zone for public buildings ;21021;251190
+3372;16;eingeschränkte Bauzonen;10903;251190
+3372;17;Tourism and leisure zone (Tourismus und FreizeitZone);21304;251190
+3373;11;Zone for residential use (Wohnzone);34701;68264
+3373;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);13781;68264
+3373;14;Core zone development (Kernzone Entwicklung);8100;68264
+3373;15;Zone for public buildings ;9434;68264
+3373;16;eingeschränkte Bauzonen;2248;68264
+3374;11;Zone for residential use (Wohnzone);235974;538141
+3374;12;Zone for commercial and industrial use (Gewerbe und Industrie);45456;538141
+3374;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);120265;538141
+3374;14;Core zone development (Kernzone Entwicklung);47827;538141
+3374;15;Zone for public buildings ;66722;538141
+3374;16;eingeschränkte Bauzonen;6796;538141
+3374;17;Tourism and leisure zone (Tourismus und FreizeitZone);15101;538141
+3375;11;Zone for residential use (Wohnzone);181312;402259
+3375;12;Zone for commercial and industrial use (Gewerbe und Industrie);7042;402259
+3375;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);65412;402259
+3375;14;Core zone development (Kernzone Entwicklung);92648;402259
+3375;15;Zone for public buildings ;23444;402259
+3375;16;eingeschränkte Bauzonen;32401;402259
+3376;11;Zone for residential use (Wohnzone);118664;400896
+3376;12;Zone for commercial and industrial use (Gewerbe und Industrie);54472;400896
+3376;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);88547;400896
+3376;14;Core zone development (Kernzone Entwicklung);66513;400896
+3376;15;Zone for public buildings ;45114;400896
+3376;16;eingeschränkte Bauzonen;11192;400896
+3376;17;Tourism and leisure zone (Tourismus und FreizeitZone);16394;400896
+3377;11;Zone for residential use (Wohnzone);910496;2307148
+3377;12;Zone for commercial and industrial use (Gewerbe und Industrie);426417;2307148
+3377;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);355932;2307148
+3377;14;Core zone development (Kernzone Entwicklung);188538;2307148
+3377;15;Zone for public buildings ;335475;2307148
+3377;16;eingeschränkte Bauzonen;58870;2307148
+3377;17;Tourism and leisure zone (Tourismus und FreizeitZone);31420;2307148
+3391;11;Zone for residential use (Wohnzone);303468;1130865
+3391;12;Zone for commercial and industrial use (Gewerbe und Industrie);249860;1130865
+3391;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);202860;1130865
+3391;14;Core zone development (Kernzone Entwicklung);191733;1130865
+3391;15;Zone for public buildings ;131860;1130865
+3391;16;eingeschränkte Bauzonen;51084;1130865
+3392;11;Zone for residential use (Wohnzone);799956;2586610
+3392;12;Zone for commercial and industrial use (Gewerbe und Industrie);463631;2586610
+3392;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);792198;2586610
+3392;14;Core zone development (Kernzone Entwicklung);87153;2586610
+3392;15;Zone for public buildings ;285516;2586610
+3392;16;eingeschränkte Bauzonen;77300;2586610
+3392;17;Tourism and leisure zone (Tourismus und FreizeitZone);80856;2586610
+3393;11;Zone for residential use (Wohnzone);114804;406603
+3393;12;Zone for commercial and industrial use (Gewerbe und Industrie);32609;406603
+3393;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);67924;406603
+3393;14;Core zone development (Kernzone Entwicklung);115450;406603
+3393;15;Zone for public buildings ;71582;406603
+3393;16;eingeschränkte Bauzonen;1811;406603
+3393;17;Tourism and leisure zone (Tourismus und FreizeitZone);2423;406603
+3394;11;Zone for residential use (Wohnzone);231977;665388
+3394;12;Zone for commercial and industrial use (Gewerbe und Industrie);36618;665388
+3394;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);143313;665388
+3394;14;Core zone development (Kernzone Entwicklung);129637;665388
+3394;15;Zone for public buildings ;101528;665388
+3394;16;eingeschränkte Bauzonen;21127;665388
+3394;17;Tourism and leisure zone (Tourismus und FreizeitZone);1188;665388
+3401;11;Zone for residential use (Wohnzone);490777;999291
+3401;12;Zone for commercial and industrial use (Gewerbe und Industrie);140796;999291
+3401;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);238857;999291
+3401;14;Core zone development (Kernzone Entwicklung);27575;999291
+3401;15;Zone for public buildings ;97302;999291
+3401;16;eingeschränkte Bauzonen;2471;999291
+3401;17;Tourism and leisure zone (Tourismus und FreizeitZone);1513;999291
+3402;11;Zone for residential use (Wohnzone);906388;2230408
+3402;12;Zone for commercial and industrial use (Gewerbe und Industrie);428964;2230408
+3402;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);506176;2230408
+3402;14;Core zone development (Kernzone Entwicklung);59471;2230408
+3402;15;Zone for public buildings ;307279;2230408
+3402;16;eingeschränkte Bauzonen;22117;2230408
+3402;17;Tourism and leisure zone (Tourismus und FreizeitZone);13;2230408
+3403;11;Zone for residential use (Wohnzone);149697;285072
+3403;12;Zone for commercial and industrial use (Gewerbe und Industrie);9633;285072
+3403;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);42269;285072
+3403;14;Core zone development (Kernzone Entwicklung);31674;285072
+3403;15;Zone for public buildings ;45496;285072
+3403;16;eingeschränkte Bauzonen;1194;285072
+3403;17;Tourism and leisure zone (Tourismus und FreizeitZone);5109;285072
+3405;11;Zone for residential use (Wohnzone);389735;1182624
+3405;12;Zone for commercial and industrial use (Gewerbe und Industrie);414226;1182624
+3405;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);197012;1182624
+3405;14;Core zone development (Kernzone Entwicklung);86477;1182624
+3405;15;Zone for public buildings ;72766;1182624
+3405;16;eingeschränkte Bauzonen;11442;1182624
+3405;17;Tourism and leisure zone (Tourismus und FreizeitZone);10966;1182624
+3406;11;Zone for residential use (Wohnzone);287218;809457
+3406;12;Zone for commercial and industrial use (Gewerbe und Industrie);43458;809457
+3406;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);117284;809457
+3406;14;Core zone development (Kernzone Entwicklung);110260;809457
+3406;15;Zone for public buildings ;106114;809457
+3406;16;eingeschränkte Bauzonen;11867;809457
+3406;17;Tourism and leisure zone (Tourismus und FreizeitZone);133256;809457
+3407;11;Zone for residential use (Wohnzone);650754;1609501
+3407;12;Zone for commercial and industrial use (Gewerbe und Industrie);116776;1609501
+3407;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);227496;1609501
+3407;14;Core zone development (Kernzone Entwicklung);244615;1609501
+3407;15;Zone for public buildings ;162529;1609501
+3407;16;eingeschränkte Bauzonen;7896;1609501
+3407;17;Tourism and leisure zone (Tourismus und FreizeitZone);199435;1609501
+3408;11;Zone for residential use (Wohnzone);1488304;3580987
+3408;12;Zone for commercial and industrial use (Gewerbe und Industrie);695190;3580987
+3408;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);535833;3580987
+3408;14;Core zone development (Kernzone Entwicklung);398863;3580987
+3408;15;Zone for public buildings ;399859;3580987
+3408;16;eingeschränkte Bauzonen;27539;3580987
+3408;17;Tourism and leisure zone (Tourismus und FreizeitZone);35399;3580987
+3421;11;Zone for residential use (Wohnzone);507804;1343279
+3421;12;Zone for commercial and industrial use (Gewerbe und Industrie);204304;1343279
+3421;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);238428;1343279
+3421;14;Core zone development (Kernzone Entwicklung);86225;1343279
+3421;15;Zone for public buildings ;279326;1343279
+3421;16;eingeschränkte Bauzonen;27192;1343279
+3422;11;Zone for residential use (Wohnzone);115799;427296
+3422;12;Zone for commercial and industrial use (Gewerbe und Industrie);54114;427296
+3422;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);155550;427296
+3422;14;Core zone development (Kernzone Entwicklung);32759;427296
+3422;15;Zone for public buildings ;25472;427296
+3422;16;eingeschränkte Bauzonen;43602;427296
+3423;11;Zone for residential use (Wohnzone);312449;818224
+3423;12;Zone for commercial and industrial use (Gewerbe und Industrie);68450;818224
+3423;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);215300;818224
+3423;14;Core zone development (Kernzone Entwicklung);95333;818224
+3423;15;Zone for public buildings ;102419;818224
+3423;16;eingeschränkte Bauzonen;14896;818224
+3423;17;Tourism and leisure zone (Tourismus und FreizeitZone);9377;818224
+3424;11;Zone for residential use (Wohnzone);478313;1333084
+3424;12;Zone for commercial and industrial use (Gewerbe und Industrie);280359;1333084
+3424;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);224186;1333084
+3424;14;Core zone development (Kernzone Entwicklung);148630;1333084
+3424;15;Zone for public buildings ;179768;1333084
+3424;16;eingeschränkte Bauzonen;9723;1333084
+3424;17;Tourism and leisure zone (Tourismus und FreizeitZone);12105;1333084
+3425;11;Zone for residential use (Wohnzone);1977590;4132372
+3425;12;Zone for commercial and industrial use (Gewerbe und Industrie);522689;4132372
+3425;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);270781;4132372
+3425;14;Core zone development (Kernzone Entwicklung);191439;4132372
+3425;15;Zone for public buildings ;766651;4132372
+3425;16;eingeschränkte Bauzonen;370349;4132372
+3425;17;Tourism and leisure zone (Tourismus und FreizeitZone);32873;4132372
+3426;11;Zone for residential use (Wohnzone);696304;1428388
+3426;12;Zone for commercial and industrial use (Gewerbe und Industrie);287794;1428388
+3426;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);84906;1428388
+3426;14;Core zone development (Kernzone Entwicklung);184070;1428388
+3426;15;Zone for public buildings ;76801;1428388
+3426;16;eingeschränkte Bauzonen;80830;1428388
+3426;17;Tourism and leisure zone (Tourismus und FreizeitZone);17683;1428388
+3441;11;Zone for residential use (Wohnzone);239883;458774
+3441;12;Zone for commercial and industrial use (Gewerbe und Industrie);49717;458774
+3441;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);63704;458774
+3441;14;Core zone development (Kernzone Entwicklung);72514;458774
+3441;15;Zone for public buildings ;32394;458774
+3441;16;eingeschränkte Bauzonen;562;458774
+3442;11;Zone for residential use (Wohnzone);1193072;2063925
+3442;12;Zone for commercial and industrial use (Gewerbe und Industrie);149760;2063925
+3442;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);186073;2063925
+3442;14;Core zone development (Kernzone Entwicklung);87632;2063925
+3442;15;Zone for public buildings ;367914;2063925
+3442;16;eingeschränkte Bauzonen;20352;2063925
+3442;17;Tourism and leisure zone (Tourismus und FreizeitZone);59122;2063925
+3443;11;Zone for residential use (Wohnzone);1514583;5034347
+3443;12;Zone for commercial and industrial use (Gewerbe und Industrie);1211750;5034347
+3443;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);693688;5034347
+3443;14;Core zone development (Kernzone Entwicklung);238280;5034347
+3443;15;Zone for public buildings ;1103320;5034347
+3443;16;eingeschränkte Bauzonen;62277;5034347
+3443;17;Tourism and leisure zone (Tourismus und FreizeitZone);210449;5034347
+3444;11;Zone for residential use (Wohnzone);284246;1041392
+3444;12;Zone for commercial and industrial use (Gewerbe und Industrie);182406;1041392
+3444;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);199000;1041392
+3444;14;Core zone development (Kernzone Entwicklung);46248;1041392
+3444;15;Zone for public buildings ;288816;1041392
+3444;16;eingeschränkte Bauzonen;21430;1041392
+3444;17;Tourism and leisure zone (Tourismus und FreizeitZone);19246;1041392
+320301;11;Zone for residential use (Wohnzone);1692555;5157674
+320301;12;Zone for commercial and industrial use (Gewerbe und Industrie);1342985;5157674
+320301;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);747702;5157674
+320301;14;Core zone development (Kernzone Entwicklung);63508;5157674
+320301;15;Zone for public buildings ;1002776;5157674
+320301;16;eingeschränkte Bauzonen;304767;5157674
+320301;17;Tourism and leisure zone (Tourismus und FreizeitZone);3381;5157674
+320302;11;Zone for residential use (Wohnzone);1856204;3758020
+320302;12;Zone for commercial and industrial use (Gewerbe und Industrie);18752;3758020
+320302;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);534222;3758020
+320302;14;Core zone development (Kernzone Entwicklung);262736;3758020
+320302;15;Zone for public buildings ;748907;3758020
+320302;16;eingeschränkte Bauzonen;322448;3758020
+320302;17;Tourism and leisure zone (Tourismus und FreizeitZone);14751;3758020
+320303;11;Zone for residential use (Wohnzone);2446554;4813159
+320303;12;Zone for commercial and industrial use (Gewerbe und Industrie);606433;4813159
+320303;13;Zone for commercial and residential use (Gewerbezone mit Wohnen);592137;4813159
+320303;14;Core zone development (Kernzone Entwicklung);68931;4813159
+320303;15;Zone for public buildings ;915652;4813159
+320303;16;eingeschränkte Bauzonen;175515;4813159
+320303;17;Tourism and leisure zone (Tourismus und FreizeitZone);7937;4813159
