@@ -8,3 +8,7 @@ FaLC enables simulations of the (future) development of population, jobs, constr
 
 Templates are sample projects runnable by FaLC. Each project contains configuration configuration directory "properties" and database directory "db". 
 Database contains population, distances and base probability tables stored as CSV files.
+
+## Download
+
+Use "Download ZIP" icon to download complete templates project to your local.
