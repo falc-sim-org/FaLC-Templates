@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+GUI version: 1.1.0-1631
+Date: 18.12.2015 12:33:39
+-->
+<falcconfig>
+    <!--Tab: e-->
+    <property name="app.maximum.threads" value="8"/>
+    <property name="data.dateFormat" value="dd-MM-yyyy"/>
+    <property name="data.timestampFormat" value="dd-MM-yyyy HH:mm:ss"/>
+    <property name="data.csv.path" value="full path to project database directory/FaLC_template_sg-ar-ai_1_1_5.proj/db/"/>
+    <property name="run.indicators.folder" value="full path to project database directory where result should be stored/FaLC_template_sg-ar-ai_1_1_5.proj/db/_FaLC_results"/>
+    <property name="log.output.destination" value=""/>	
+    <property name="data.csv.defaultSchema" value="assumptions"/>
+    <property name="data.csv.networksSchema" value="networks"/>
+    <property name="data.csv.distancesSchema" value="distances"/>
+    <property name="data.csv.columnsSeparator" value=";"/>
+    <property name="data.csv.decimalSeparator" value="."/>
+    <property name="data.csv.schemaDelimiter" value="/"/>
+    <property name="data.csv.charset" value="UTF-8"/>
+    <property name="data.csv.tableExtension" value=".csv"/>
+    <property name="data.csv.columnDefinitionExtension" value=".csvt"/>
+    <property name="data.csv.temporaryTableExtension" value=".tmp"/>
+    <property name="xmx" value="1"/>
+    <property name="xms" value="4"/>
+    <property name="XXoptions" value="-XX:NewRatio=4 -XX:SurvivorRatio=8 -XX:+UseCompressedOops -XX:+UseParallelOldGC -XX:+DisableExplicitGC -XX:+UseCMSInitiatingOccupancyOnly -XX:+CMSClassUnloadingEnabled -XX:+CMSScavengeBeforeRemark -XX:CMSInitiatingOccupancyFraction=68"/>
+    <property name="log.output.save" value="false"/>
+    <property name="falc.user.name" value="falc"/>
+    <property name="falc.computer.name" value="falc"/>
+    <property name="falc.send.fail.email" value="false"/>
+    <property name="falc.send.finished.email" value="false"/>
+    <property name="falc.email.address" value=""/>
+    <property name="falc.timeout" value="120"/>
+</falcconfig>
