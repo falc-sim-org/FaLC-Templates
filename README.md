@@ -4,6 +4,8 @@
 
 FaLC enables simulations of the (future) development of population, jobs, construction, real estate demand, transport, and their interaction effects. The models include a large amount of information: for example, age and income of residents, commuting ties as well as the spatial distribution of the companies in various industries. 
 
+Templates of FaLC are published under a Dual Licence: Open-Source-Licence ([AGPL Version 3](http://www.gnu.org/licenses/licenses.en.html)) as well as under the proprietary [FaLC-pro-License](http://www.falc-sim.org/documents/FaLC-pro_Licence-Agreement_en.pdf).
+
 ## Templates
 
 Templates are sample projects runnable by FaLC. Each project contains configuration configuration directory "properties" and database directory "db". 
